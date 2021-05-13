@@ -20,7 +20,7 @@
 ├── LICENSE  
 ├── requirements.txt  
 ├── 螺旋桨RNA结构预测竞赛第六名解决方案.pdf  
-├── data
+├── data  
 │   └── data67691  
 ├── postprocess............................................................... #  初赛后处理及结果  
 │   ├── postprocess.py  
