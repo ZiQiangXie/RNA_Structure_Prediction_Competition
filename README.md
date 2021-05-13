@@ -15,24 +15,15 @@
 
 ## 工程结构
 
-├── 1746242.ipynb                                                            # Notebook
-
-├── README.md
-
-├── LICENSE
-
-├── requirements.txt
-
-├── 螺旋桨RNA结构预测竞赛第六名解决方案.pdf         # 方案简介
-
+├── 1746242.ipynb\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  # Notebook  
+├── README.md  
+├── LICENSE  
+├── requirements.txt  
+├── 螺旋桨RNA结构预测竞赛第六名解决方案.pdf\ \ \ \ \ \ \ \ # 方案简介  
 ├── data
-
-│   └── data67691
-
-├── postprocess                                                               #  初赛后处理及结果
-
-│   ├── postprocess.py
-
+│   └── data67691  
+├── postprocess\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  #  初赛后处理及结果  
+│   ├── postprocess.py  
 │   ├── predict.files                                                          # 初赛最优结果
 
 │   ├── predict.files_baseline_self
