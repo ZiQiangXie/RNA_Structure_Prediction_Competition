@@ -28,20 +28,20 @@
 │   ├── predict.files_baseline_self  
 │   ├── predict.files_baseline_swish  
 │   ├── predict.files_baseline  
-│   └── predict.files_baseline_and_dev 
+│   └── predict.files_baseline_and_dev  
 ├── postprocess_2............................................................ #  复赛后处理及结果  
 │   ├── postprocess.py  
-│   ├── predict.files........................................................... # 复赛最优结果 
+│   ├── predict.files........................................................... # 复赛最优结果  
 │   ├── predict.files.zip  
 │   ├── predict.files_add_dev  
 │   ├── predict.files_bl  
 │   ├── predict.files_bl_self  
-│   └── predict.files_bl_swish 
+│   └── predict.files_bl_swish  
 ├── work............................................................................. # 训练工程 1   
 │   ├── create_result.py  
 │   ├── data  
-│   ├── model...........................................# 模型位置  
-│   ├── model-0.......................................# 模型位置  
+│   ├── model........................................# 模型位置  
+│   ├── model-0.....................................# 模型位置  
 │   ├── model_x2  
 │   ├── README.txt  
 │   ├── src  
