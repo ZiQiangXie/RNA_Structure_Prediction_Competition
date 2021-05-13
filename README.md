@@ -48,13 +48,13 @@
 │   ├── test_log.txt  
 │   └── train_log.txt  
 └── work2.............................................................................# 训练工程 2  
-    ├── create_result.py  
-    ├── data  
-    ├── model ...........................................# 模型位置  
-    ├── README.txt  
-    ├── src  
-    ├── test_log.txt  
-    └── train_log.txt  
+│   ├── create_result.py  
+│   ├── data  
+│   ├── model ...........................................# 模型位置  
+│   ├── README.txt  
+│   ├── src  
+│   ├── test_log.txt  
+│      └── train_log.txt  
 
 ## 1. 数据集
 
