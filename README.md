@@ -54,7 +54,7 @@
     ├── README.txt  
     ├── src  
     ├── test_log.txt  
-    └── train_log.txt
+    └── train_log.txt 
 
 ## 1. 数据集
 
