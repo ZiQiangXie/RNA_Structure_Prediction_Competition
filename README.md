@@ -26,40 +26,74 @@
 ├── 螺旋桨RNA结构预测竞赛第六名解决方案.pdf         # 方案简介
 
 ├── data
+
 │   └── data67691
+
 ├── postprocess                                                               #  初赛后处理及结果
+
 │   ├── postprocess.py
+
 │   ├── predict.files                                                          # 初赛最优结果
+
 │   ├── predict.files_baseline_self
+
 │   ├── predict.files_baseline_swish
+
 │   ├── predict.files_baseline
+
 │   └── predict.files_baseline_and_dev
+
 ├── postprocess_2                                                         #  复赛后处理及结果
+
 │   ├── postprocess.py
+
 │   ├── predict.files                                                         # 复赛最优结果
+
 │   ├── predict.files.zip
+
 │   ├── predict.files_add_dev
+
 │   ├── predict.files_bl
+
 │   ├── predict.files_bl_self
+
 │   └── predict.files_bl_swish
+
 ├── work                                                                          # 训练工程1 
+
 │   ├── create_result.py
+
 │   ├── data
+
 │   ├── model       # 模型位置
+
 │   ├── model-0   # 模型位置
+
 │   ├── model_x2
+
 │   ├── README.txt
+
 │   ├── src
+
 │   ├── test_log.txt
+
 │   └── train_log.txt
+
 └── work2                                                                       # 训练工程2
-    ├── create_result.py
-    ├── data
-    ├── model          # 模型位置
-    ├── README.txt
-    ├── src
-    ├── test_log.txt
-    └── train_log.txt
+
+​    ├── create_result.py
+
+​    ├── data
+
+​    ├── model          # 模型位置
+
+​    ├── README.txt
+
+​    ├── src
+
+​    ├── test_log.txt
+
+​    └── train_log.txt
 
 ## 1. 数据集
 
