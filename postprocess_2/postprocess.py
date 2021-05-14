@@ -29,7 +29,7 @@ for baseline_file in baseline_files:
         if err2 / err1 > 10:
             num += 1
         total_num += 1
-        merge_prob = 0.45 * float(bl_prob) + 0.01 * bl_self_prob  + 0.0 * bl_swish_prob  + 0.45 * bl_dev_prob
+        merge_prob = 0.45 * float(bl_prob) + 0.01 * bl_self_prob  + 0 * bl_swish_prob  + 0.45 * bl_dev_prob
         baseline_list[i] = merge_prob
     result_file = open(os.path.join(result_path, baseline_file), 'w')
     for prob in baseline_list:
